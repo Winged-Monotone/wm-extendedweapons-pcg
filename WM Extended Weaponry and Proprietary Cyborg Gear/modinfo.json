@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "wmweaponsmod",
+    "name": "WM WEAPON MOD",
+    "authors": [ "wm" ],
+    "maintainers": [ "wm" ],
+    "description": "Adds specialized weapons to the game.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

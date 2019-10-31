@@ -1,0 +1,48 @@
+[
+  {
+    "type": "TOOL",
+    "id": "chokuto1",
+    "name": "chokuto",
+    "description": "A re-creation of an ancient Japanese straight-sword; often considered the predecessor to the tachi and later the uchigatana and katana; this is a straight-edged broadsword with a design similar to the jian and the piandao, but with a traditional Japanese-edge and handle; its lightweight, extended handle, and subtly-long length make it an excellent cutting weapon for sword-dancers and more dexterous sword-fighters. It can be wielded with one or two hands. /“Please, don’t call it a ninja-sword.” This particular replica shows impressive craftsmanship and is ready for combat./",
+    "weight": 2000,
+    "color": "White",
+    "symbol": "J",
+    "material": [ "wood", "steel" ],
+    "techniques": [ "WBLOCK_2", "SPIN", "PRECISE", "RAPID" ],
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD" ],
+    "volume": 4,
+    "cutting": 35,
+    "to_hit": 3,
+    "price": 900000,
+    "qualities": [ [ "CUT", 1 ] ]
+  },
+  {
+    "id": "raijinchokuto",
+    "type": "TOOL",
+    "category": "weapons",
+    "name": "raijin chokuto",
+    "name_plural": "raijin chokutos",
+    "description": "A re-creation of an ancient japanese straight-sword; its lightweight, extended handle, and subtly-long length make it an excellent cutting weapon for sword-dancers and more dexterous sword-fighters. It can be wielded with one or two hands. This particular model has a conducter built into the hilt with two powerful battery-capacitors, generating upto an amps worth of eletrical current durectly into the blade. To put it simply, you don't want to get touched by this.",
+    "weight": "1500 g",
+    "volume": "1200 ml",
+    "price": 120000,
+    "to_hit": 3,
+    "cutting": 35,
+    "material": [ "wood", "steel" ],
+    "symbol": "J",
+    "color": "white",
+    "ammo": "battery",
+    "charges_per_use": 250,
+    "qualities": [ [ "Cut", 1 ] ],
+    "techniques": [ "WBLOCK_2", "SPIN", "PRECISE", "RAPID" ],
+    "use_action": "TAZER",
+    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD" ],
+    "magazines": [
+      [
+        "battery",
+        [ "medium_battery_cell", "medium_plus_battery_cell", "medium_atomic_battery_cell", "medium_disposable_cell" ]
+      ]
+    ],
+    "magazine_well": 2
+  }
+]
