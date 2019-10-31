@@ -32,7 +32,7 @@
     "symbol": "J",
     "color": "white",
     "ammo": "battery",
-    "charges_per_use": 250,
+    "charges_per_use": 100,
     "qualities": [ [ "Cut", 1 ] ],
     "techniques": [ "WBLOCK_2", "SPIN", "PRECISE", "RAPID" ],
     "use_action": "TAZER",
