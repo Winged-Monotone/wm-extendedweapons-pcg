@@ -1,0 +1,40 @@
+[
+  {
+    "type": "TOOL",
+    "id": "hookblades",
+    "name": "shuang gou",
+    "description": "Also known as the tiger-claw swords, these mysterious weapons made their debut as civilian armaments during Qing era, unfortuntely, this means not much is known about them, and even less of their actual practical use. Doesn't stop some from trying though! Characterized as long, slender blades with a forward-facing hooked-end, the hilt sports a bladed hand-guard and a dagger-head on the pommel, these weapons commonly come in pairs and may even be considered 'twin-blades.'",
+    "weight": 1000,
+    "color": "White",
+    "symbol": "J",
+    "material": [ "wood", "steel" ],
+    "techniques": [ "WBLOCK_2", "RAPID", "WIDE" ],
+    "flags": [ "ALWAYS_TWOHAND", "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD" ],
+    "volume": 6,
+    "bashing": 3,
+    "cutting": 21,
+    "to_hit": 3,
+    "price": 900000,
+    "qualities": [ [ "CUT", 1 ] ]
+  },
+  {
+    "id": "surrated-hook-blades",
+    "type": "TOOL",
+    "category": "weapons",
+    "name": "tiger's fury",
+    "name_plural": "pair's of tiger's fury",
+    "description": "A custom variation of hook-swords, it seems the designer added surrated edges to the inner portion of the blade.",
+    "weight": 990,
+    "color": "White",
+    "symbol": "J",
+    "material": [ "wood", "steel" ],
+    "techniques": [ "WBLOCK_2", "RAPID", "WIDE" ],
+    "flags": [ "ALWAYS_TWOHAND", "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD" ],
+    "volume": 6,
+    "bashing": 2,
+    "cutting": 34,
+    "to_hit": 3,
+    "price": 900000,
+    "qualities": [ [ "CUT", 1 ] ]
+  }
+]

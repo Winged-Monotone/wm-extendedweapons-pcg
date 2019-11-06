@@ -1,0 +1,40 @@
+[
+  {
+    "type": "TOOL",
+    "category": "weapons",
+    "id": "ishlangu-iklwa-combined",
+    "name": "ishlangu-iklwa (combined)",
+    "description": "this is a replica of a 'paired' variant of the Kulu spear-and-shield, 'ishlangu and iklwa, this particular specimen is a medium-sized spear attatched to a mantle on the inner frame of the long, lacquer-wood shield. Although weighty, it has the benefit having the reach of a spear and the protective qaulities of a spear it can be thrusted either with one or two hands making it an excellent duaeling weapon.",
+    "weight": 3000,
+    "color": "White",
+    "symbol": "&",
+    "material": [ "wood", "steel" ],
+    "techniques": ["SWEEP", "SPIN", "PRECISE", "RAPID", "WBLOCK_1"],
+    "flags": ["REACH_ATTACK", "DURABLE_MELEE", "SHEATH_SWORD", "ALWAYS_TWOHAND"],    
+    "volume": 4,
+    "bashing": 22,
+    "cutting": 22,
+    "to-hit": 1,
+    "price": 25000,
+    "qualities": [ [ "CUT", 2 ] ]
+  },
+    {
+    "type": "TOOL",
+    "category": "weapons",
+    "id": "ishlangu-iklwa-combined",
+    "name": "ishlangu-iklwa (combined)",
+    "description": "This is a full replica of the kusarigama, this particurly model bares chains with flaired, bladed edges and the weight is now a small mace-head with flaying-ridges. Rip and tear. Might want to wear some leather-gloves.",
+    "weight": 3000,
+    "color": "Grey",
+    "symbol": "&",
+    "material": [ "wood", "steel" ],
+    "techniques": ["SWEEP", "SPIN", "BRUTAL", "RAPID","WBLOCK_1"],
+    "flags": ["REACH_ATTACK", "DURABLE_MELEE", "SHEATH_SWORD", "ALWAYS_TWOHAND"],    
+    "volume": 4,
+    "bashing": 20,
+    "cutting": 37,
+    "to-hit": 1,
+    "price": 30000,
+    "qualities": [ [ "CUT", 2 ] ]
+  }
+]
