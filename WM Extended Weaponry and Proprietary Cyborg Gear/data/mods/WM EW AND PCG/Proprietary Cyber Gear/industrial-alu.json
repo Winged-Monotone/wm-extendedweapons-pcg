@@ -1,0 +1,26 @@
+[
+  {
+    "id": "industrial-alu",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": "Rivtek - industrial ALU-U.",
+    "//": "An ALU, (assisted-lifting utility-unit,) is a pair of mobile powered-gauntlet, externally-powered hydraulics power and interface directly to the operators’ hydraulic muscles. These PCE’s were usually deployed as aids in industrial construction work; but here in the cataclysm, it lets you punch with the force of a hulk. [These PCE’s are to be used in conjunction with power-gauntlet weaponry, for maximum effect.] [Hydraulic Muscles required for maximum efficiency.]",
+    "weight": "9814 g",
+    "volume": "75 L",
+    "price": 500000,
+    "to_hit": 1,
+    "bashing": 1,
+    "material": [ "steel" ],
+    "symbol": "X",
+    "color": "red",
+    "covers": [ "ARMS", "HANDS" ],
+    "coverage": 95,
+    "encumbrance": 40,
+    "storage": "2500 ml",
+    "warmth": 50,
+    "material_thickness": 12,
+    "environmental_protection": 3,
+    "use_action": { "type": "ups_based_armor", "activate_msg": "Your PR-2 engages." },
+    "flags": [ "BLOCK_WHILE_WORN", "WATERPROOF", "STURDY" ]
+  }
+]
