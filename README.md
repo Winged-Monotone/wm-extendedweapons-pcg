@@ -17,7 +17,7 @@ LOG STARTING AS OF 11/9/2019
 
 REVISIONS
 Considering raising the power to 250 per turn, making its maximim usage with a medium plutonim battery 25 turns, since it is rather powerful.
-Need to remove UPS for these as they are powered by Cybernetics (haha) Also need to make them active power armor as well, so they add the buffs they should add. Needs a Light, Heavy and Medium Variant, all tailored to different gear, Alu-u's aren't designed for combat, but iunno if that's stop someone from trying?
+Need to remove UPS for these as they are powered by Cybernetics (haha) Also need to make them active power armor as well, so they add the buffs they should add. Needs a Light, Heavy and Medium Variant, all tailored to different gear, Alu-u's aren't designed for combat, but iunno if that'll stop someone from trying?
 
 CONSIDERATIONS
 Rod said I should make a training-manual for each power frame, not reading these will bar you from using techniques with them. Still need to figure out how to do that, but I like that layer added growth that PC has to learn to wield them. 
