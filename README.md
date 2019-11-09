@@ -2,11 +2,11 @@ Hm, so this is my first time doing the moddy thing haha this is really just a pe
 
  Extended Weaponry
  
-	I just wanted to add some more diversity in terms of weapons you can find, modify and create in the end-world. Some of which will be proper weapons that you can find, while other's seem like insane machinations of a society trying to survive in a cataclysmic event!
+I just wanted to add some more diversity in terms of weapons you can find, modify and create in the end-world. Some of which will be proper weapons that you can find, while other's seem like insane machinations of a society trying to survive in a cataclysmic event!
 	
 PCE - Proprietary Cybernetic Equipment
 
-	Do you like cyborgs? I like Cyborgs. Do you like stuff such as interfaceable gear that can be partially mechanized or tailored to a cyborgs' needs and everyday challenges? (Or new challenges considering the nastiness that is the Cataclysm,) welp. That's what I'm working on, a lot of these cybernetic tools, gadgets, weapons, and more will feel like extensions of the cyborgs' body and what they can offer.(If they got the right 'mods.' some gear may be out of use for cyborgs lacking certain modifications,) Some of this gear will feel tailored to the industry and maybe some military as they are pre-cataclysm inventions designed to aid cybernetic individuals. On the other hand, some will be terrifying machinations in the Post-Cataclysm era, cybernetic extensions jurry-rigged with the intent for survival!
+Do you like cyborgs? I like Cyborgs. Do you like stuff such as interfaceable gear that can be partially mechanized or tailored to a cyborgs' needs and everyday challenges? (Or new challenges considering the nastiness that is the Cataclysm,) welp. That's what I'm working on, a lot of these cybernetic tools, gadgets, weapons, and more will feel like extensions of the cyborgs' body and what they can offer.(If they got the right 'mods.' some gear may be out of use for cyborgs lacking certain modifications,) Some of this gear will feel tailored to the industry and maybe some military as they are pre-cataclysm inventions designed to aid cybernetic individuals. On the other hand, some will be terrifying machinations in the Post-Cataclysm era, cybernetic extensions jurry-rigged with the intent for survival!
 
 UPDATES:
 
