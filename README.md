@@ -1,5 +1,5 @@
 READ ME:
-Hm, so this is my first time doing the moddy thing haha this is really just a pet project, nothing too serious! But I do love this kinds so I might as well! So I guess I should start with talking about the aim of this mod and what it intends to add/modify. Actually, well, its more like two mods in one.
+Hm, so this is my first time doing the moddy thing haha this is really just a pet project, nothing too serious! But I do love this kinds of stuff so I might as well! So I guess I should start with talking about the aim of this mod and what it intends to add/modify. Actually, well, its more like two mods in one.
 
 	* Extended Weaponry
 	I just wanted to add some more diversity in terms of weapons you can find, modify and create in the end-world. Some of which will be proper weapons that you can find, while other's seem like insane machinations of a society trying to survive in a cataclysmic event!
