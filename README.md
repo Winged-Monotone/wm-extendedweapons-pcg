@@ -15,7 +15,7 @@ LOG STARTING AS OF 11/9/2019
 * Started design for the african spear/shield combo weapon.
 * Added first version of ALU-U (Check Revisions)
 
-11/6/2019
+11/10/2019
 * Chokuto Powerdraw Nerfed to 250 (Check Revisions)
 * ishlangu-iklwa have been completed.
 * ups capabilities removed from powered auxillery gear
