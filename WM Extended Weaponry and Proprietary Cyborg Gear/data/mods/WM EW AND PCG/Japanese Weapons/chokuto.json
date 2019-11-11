@@ -21,7 +21,7 @@
     "id": "vaibrachokuto-(unactive)",
     "type": "TOOL",
     "category": "weapons",
-    "name": "phase-chokuto (unactive)",
+    "name": "phasing-chokuto (unactive)",
     "name_plural": "phase chokutos (unactive)",
     "description": "A re-creation of an ancient japanese straight-sword; its lightweight, extended handle, and subtly-long length make it an excellent dueling weapon for sword-dancers and more dexterous sword-fighters. It can be wielded with one or two hands. This particular model has a conducter built into the handle with two high-powered oscillators welded into the hilt, these oscilliators disperse micro-vibrations up to frequencies as high as 50Ghz directly into the blade, the edge is capable of practically 'obliterating' biological and even some forms of synthetic matter on a microscopic level. \"This isn't your fancy turkey cutter.\"",
     "weight": "1310 g",
@@ -41,7 +41,7 @@
       "menu_text": "Activate",
       "active": true,
       "need_charges": 1,
-      "need_charges_msg": "The phase-chokuto has run out of power.",
+      "need_charges_msg": "your phasing-chokuto has run out of power.",
       "type": "transform",
       "target": "vaibrachokuto-(active)",
       "msg": "Your phase-chokuto begins to hum ominously."
@@ -62,7 +62,7 @@
     "name": "phasing chokuto",
     "name_plural": "phasing chokutos",
     "description": "A re-creation of an ancient japanese straight-sword; its lightweight, extended handle, and subtly-long length make it an excellent cutting weapon for sword-dancers and more dexterous sword-fighters. It can be wielded with one or two hands. This particular model has a capacitor built into the handle powering two high-powered oscillators welded into the hilt, these oscilliators disperse micro-vibrations up to frequencies as high as 50Ghz directly into the superalloy-coated blade, the edge is capable of practically 'obliterating' biological and even some forms of synthetic matter on a microscopic level, allowing it to chop through bone and flesh with ease. \"This isn't your fancy turkey cutter.\"",
-    "power_draw": 100000000,
+    "power_draw": 250000000,
     "revert_to": "vaibrachokuto-(unactive)",
     "weight": "1310 g",
     "volume": "1200 ml",
@@ -79,7 +79,7 @@
     "use_action": {
       "menu_text": "Deactivate",
       "type": "transform",
-      "msg": "Your phase-chokuto goes quiet as it disengages.",
+      "msg": "Your phasing-chokuto goes quiet as it disengages.",
       "target": "vaibrachokuto-(unactive)"
     },
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "SHEATH_SWORD" ],

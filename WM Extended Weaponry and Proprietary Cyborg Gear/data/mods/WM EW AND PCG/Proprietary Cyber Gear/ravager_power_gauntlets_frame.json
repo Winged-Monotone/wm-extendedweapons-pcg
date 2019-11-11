@@ -20,7 +20,7 @@
     "warmth": 50,
     "material_thickness": 12,
     "environmental_protection": 3,
-    "use_action": { "type": "ups_based_armor", "activate_msg": "Your PR-2 engages." },
+    "power_armor" : true,
     "flags": [ "BLOCK_WHILE_WORN", "WATERPROOF", "STURDY" ]
   }
 ]

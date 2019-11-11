@@ -4,37 +4,49 @@
     "category": "weapons",
     "id": "ishlangu-iklwa-combined",
     "name": "ishlangu-iklwa (combined)",
-    "description": "this is a replica of a 'paired' variant of the Kulu spear-and-shield, 'ishlangu and iklwa, this particular model is a medium-length spear attatched to a mantle on the inner-frame of the long, oblong, lacquer-wood shield. Although weighty, it has the benefit of having the reach of a spear and the protective qaulities of a shield it can be thrusted either with one or two hands making it an excellent duaeling weapon. Activate it to seperate the weapon making it accessible to various techniques.",
+    "description": "This is a replica of a 'paired' variant of the Kulu spear-and-shield, 'ishlangu and iklwa, this particular model is a medium-length spear attatched to a mantle on the inner-frame of the long, oblong, lacquer-wood shield. Although weighty, it has the benefit of having the reach of a spear and the protective qaulities of a shield it can be thrusted either with one or two hands making it an excellent duaeling weapon. Activate it to seperate the weapon making it accessible to various techniques.",
     "weight": 2000,
     "color": "White",
     "symbol": "&",
     "material": [ "wood", "steel" ],
-    "techniques": [ "PRECISE", "WBLOCK_3"],
-    "flags": ["REACH_ATTACK", "DURABLE_MELEE", "SHEATH_SPEAR", "ALWAYS_TWOHAND", "BLOCK_WHILE_WORN" ],    
+    "techniques": [ "PRECISE", "WBLOCK_3" ],
+    "flags": [ "REACH_ATTACK", "DURABLE_MELEE", "SHEATH_SPEAR", "ALWAYS_TWOHAND", "BLOCK_WHILE_WORN" ],
     "volume": 4,
-    "bashing": 10,
+    "bashing": 5,
     "cutting": 25,
-    "to-hit": 1,
+    "to-hit": 2,
     "price": 25000,
-    "qualities": [ [ "CUT", 2 ] ]
+    "use_action": {
+      "menu_text": "unmantle",
+      "type": "transform",
+      "msg": "You dismmantle your Iklwa.",
+      "target": "ishlangu-iklwa-seperated"
+    },
+    "qualities": [ [ "CUT", 1 ] ]
   },
-    {
+  {
     "type": "TOOL",
     "category": "weapons",
     "id": "ishlangu-iklwa-seperated",
     "name": "ishlangu-iklwa (seperated)",
-    "description": "This is a full replica of the kusarigama, this particurly model bares chains with flaired, bladed-edges and the weight is now a small mace-head with flaying-ridges. Rip and tear. Might want to wear some leather-gloves.",
+    "description": "This is a replica of a 'paired' variant of the Kulu spear-and-shield, 'ishlangu and iklwa, this particular model is a medium-length spear attatched to a mantle on the inner-frame of the long, oblong, lacquer-wood shield. Although weighty, it has the benefit of having the reach of a spear and the protective qaulities of a shield it can be thrusted either with one or two hands making it an excellent duaeling weapon. Activate it to seperate the weapon making it accessible to various techniques.",
     "weight": 2000,
     "color": "Grey",
     "symbol": "&",
     "material": [ "wood", "steel" ],
-    "techniques": [ "BRUTAL", "RAPID","WBLOCK_3"],
-    "flags": ["REACH_ATTACK", "DURABLE_MELEE", "SHEATH_SWORD", "ALWAYS_TWOHAND"],    
+    "techniques": [ "IMPALE", "PRECISE", "RAPID", "WBLOCK_3" ],
+    "flags": [ "REACH_ATTACK", "DURABLE_MELEE", "ALWAYS_TWOHAND" ],
     "volume": 4,
     "bashing": 10,
     "cutting": 25,
-    "to-hit": 1,
+    "to-hit": 2,
     "price": 30000,
-    "qualities": [ [ "CUT", 2 ] ]
+    "use_action": {
+      "menu_text": "mantle",
+      "type": "transform",
+      "msg": "You mmantle your Iklwa.",
+      "target": "ishlangu-iklwa-combined",
+      "qualities": [ [ "CUT", 1 ] ]
+    }
   }
 ]
