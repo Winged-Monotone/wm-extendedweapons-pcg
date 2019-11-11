@@ -13,12 +13,12 @@ UPDATES:
 LOG STARTING AS OF 11/9/2019
 
 11/6/2019
-* Chokuto Powerdraw Nerfed to 100 (Check Revisions 1a)
+* Phasing Chokuto Powerdraw Nerfed to 100 (Check Revisions 1a)
 * Started design for the african spear/shield combo weapon.
 * Added first version of ALU-U (Check Revisions 2a)
 
 11/6/2019
-* Chokuto Powerdraw Nerfed to 250 (Check Revisions 1a)
+* Phasing Chokuto Powerdraw Nerfed to 250 (Check Revisions 1a)
 * ishlangu-iklwa have been completed.
 * ups capabilities removed from powered auxillery gear (Check Revisions 2a)
 
